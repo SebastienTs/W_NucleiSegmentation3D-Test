@@ -1,7 +1,7 @@
 {
     "name": "NucleiSegmentation3D-Test",
     "container-image": {
-        "image": "neubiaswg5/w_nucleisegmentation3d-test",
+        "image": "sebastients/w_nucleisegmentation3d-test",
         "type": "singularity"
     },
     "schema-version": "cytomine-0.1",
